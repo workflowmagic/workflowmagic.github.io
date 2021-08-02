@@ -1,0 +1,63 @@
+
+ .app {
+
+     margin: 10px;
+     background-color: purple;
+  /*   height: 100px;*/
+     display: flex;
+
+     justify-content: space-between;
+     outline-style: solid;
+     justify-content:center;
+ }
+
+
+ .grid-item {
+     outline-style: solid;
+     background-color: orange;
+     width:500px;
+
+
+/*     height: 500px;*/
+
+ }
+
+ span{
+    text-align: center;
+    display: block;
+    font-size: 2em;
+ }
+
+
+
+
+ .audio-button-container{
+    display: flex;
+    background-color: blue;
+    justify-content: space-between;
+ }
+
+
+ button{
+    font-size: 2em;
+
+ }
+
+ .wrapper{
+    background-color: "#e3311e";
+ }
+
+/*video:nth-child(0){
+    margin: 0 auto;
+
+}*/
+
+
+
+
+
+
+
+
+
+
